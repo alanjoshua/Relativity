@@ -4,9 +4,8 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: Blockout_Theme_User_Trigger
   m_Shader: {fileID: 4800000, guid: 8ad6f55f2d98867408f19cea13d34eea, type: 3}
   m_ShaderKeywords: 
@@ -43,7 +42,6 @@ Material:
     - _Metallic: 0
     - __dirty: 1
     m_Colors:
-    - _Color: {r: 0.5595238, g: 0.4236097, b: 0.39784825, a: 1}
-    - _Color_1: {r: 0.5595238, g: 0.4236097, b: 0.39784825, a: 1}
+    - _Color: {r: 0.32500002, g: 0.20901154, b: 0.2364752, a: 1}
+    - _Color_1: {r: 0.32500002, g: 0.20901154, b: 0.2364752, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
-  m_BuildTextureStacks: []

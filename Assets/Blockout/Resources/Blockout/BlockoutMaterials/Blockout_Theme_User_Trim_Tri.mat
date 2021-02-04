@@ -4,9 +4,8 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: Blockout_Theme_User_Trim_Tri
   m_Shader: {fileID: 4800000, guid: a8089c39006d76944aebbd1016c83c21, type: 3}
   m_ShaderKeywords: 
@@ -32,8 +31,6 @@ Material:
     - _Gloss: 0.227
     - _Locked_Drop: 0.7
     - _Metalic: 0.087
-    - _Metallic: 0.087
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 0.6377019, g: 0.7158801, b: 0.6502562, a: 1}
-  m_BuildTextureStacks: []
+    - _Color: {r: 0.44694558, g: 0.5285662, b: 0.56889117, a: 1}

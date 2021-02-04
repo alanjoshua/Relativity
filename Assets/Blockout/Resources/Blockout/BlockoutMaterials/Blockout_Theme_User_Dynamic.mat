@@ -4,9 +4,8 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: Blockout_Theme_User_Dynamic
   m_Shader: {fileID: 4800000, guid: 1bfe0b648f9c4b04cb0ebbfaa5d15701, type: 3}
   m_ShaderKeywords: _EMISSION
@@ -86,6 +85,5 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 0.25882354, g: 0.5058824, b: 0.6431373, a: 1}
+    - _Color: {r: 0.77254903, g: 0.92156863, b: 0.7647059, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
